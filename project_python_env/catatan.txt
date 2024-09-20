@@ -1,0 +1,28 @@
+## lakukan ini jika mendaptkan project dari temen atau orang lain seprti github
+
+Anda benar sekali! Penggunaan `pip install -r requirements.txt` seperti yang Anda sebutkan adalah tepat. Mari saya jelaskan lebih detail:
+
+1. Ketika menggunakan proyek dari orang lain:
+   - Jika Anda mengambil proyek dari teman atau dari GitHub, biasanya proyek tersebut sudah menyertakan file `requirements.txt`.
+   - File ini berisi daftar semua dependensi (package) yang diperlukan untuk menjalankan proyek tersebut.
+
+2. Langkah-langkah yang biasa dilakukan:
+   a. Clone atau download proyek tersebut.
+   b. Buat dan aktifkan virtual environment baru.
+   c. Jalankan `pip install -r requirements.txt`.
+
+3. Apa yang terjadi saat menjalankan perintah tersebut:
+   - Pip akan membaca file `requirements.txt`.
+   - Kemudian, pip akan menginstal semua package yang terdaftar di file tersebut dengan versi yang ditentukan.
+
+4. Keuntungan menggunakan `requirements.txt`:
+   - Memastikan bahwa Anda memiliki semua dependensi yang diperlukan.
+   - Menjamin bahwa versi package yang Anda gunakan sama dengan yang digunakan oleh pembuat proyek asli.
+   - Mempermudah setup environment yang konsisten antar developer atau mesin yang berbeda.
+
+5. Penting untuk diingat:
+   - Selalu lakukan ini dalam virtual environment yang aktif untuk menghindari konflik dengan proyek lain atau instalasi Python global Anda.
+
+Jadi, menggunakan `pip install -r requirements.txt` adalah cara yang efisien dan standar untuk menyiapkan environment proyek Python yang Anda ambil dari sumber eksternal, memastikan bahwa Anda memiliki semua tools yang diperlukan untuk menjalankan proyek tersebut.
+
+Apakah ada aspek lain dari manajemen dependensi atau penggunaan proyek dari sumber eksternal yang ingin Anda ketahui lebih lanjut?

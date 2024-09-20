@@ -1,0 +1,17 @@
+integrasi dengan API
+ini menuju tab API
+link : https://openweathermap.org/current#data
+
+How to make an API call
+API call
+https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
+
+selanjutnya:
+
+Units of measurement
+standard, metric, and imperial units are available. List of all API parameters with available units.
+
+Parameters
+units	optional	standard, metric, imperial. When you do not use the units parameter, format is standard by default.
+
+example pada code weather.py

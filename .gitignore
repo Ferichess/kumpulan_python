@@ -1,0 +1,10 @@
+**/.venv/
+**/myproject_env/
+**/*pyc
+**/*.env/
+**/*.exe..stackdump
+**/*.stackdump
+**/*.exe
+*.mov
+*.mp3
+*.mp4

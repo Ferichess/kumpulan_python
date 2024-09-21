@@ -1,0 +1,19 @@
+python -m venv myproject_env // membuat virtual environment myproject_env("penamaan"). kegunaan ini supaya library yg di install hanya dalam lingkup myproject_env
+source .venv/Scripts/activate // aktifkan virtual environment myproject_env. gunakan terminal Bash dan jalankan perintah
+pip install library // install library
+pip freeze > requirements.txt // membuat file requirements.txt untuk mengetahui library yang diperlukan
+pip install -r requirements.txt // opsional*  install library yang diperlukan
+deactivate // matikan virtual environment. gunakan perintah ini diterminal Bash
+
+
+catatan:
+Setiap kali Anda menginstal atau memperbarui package, jangan lupa untuk memperbarui requirements.txt jalankan (pip freeze > requirements.txt).
+pip install -r requirements.txt // jalankan ini jika mendaptkan project dari temen / orang lain dan pastikan file requirements.txt sudah ada
+
+opsional: link > https://www.youtube.com/watch?v=eDe-z2Qy9x4
+py -m pip install requests //
+py -m pip show requests //
+py -m pip python-dotenv //
+https://pypi.org/ //
+py -m pip freeze > requirements.txt //
+https://openweathermap.org/ //

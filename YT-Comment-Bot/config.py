@@ -1,4 +1,4 @@
 # Enter email and password of your YouTube account below:
 
-email = "feri.chess"
-password = "bersihrapi"
+email = "feri.chess@gmail.com"
+password = "rapibersih"

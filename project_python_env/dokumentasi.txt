@@ -1,4 +1,4 @@
-python -m venv myproject_env // membuat virtual environment myproject_env("penamaan"). kegunaan ini supaya library yg di install hanya dalam lingkup myproject_env
+python -m venv .venv // membuat virtual environment myproject_env("penamaan"). kegunaan ini supaya library yg di install hanya dalam lingkup myproject_env
 source .venv/Scripts/activate // aktifkan virtual environment myproject_env. gunakan terminal Bash dan jalankan perintah
 pip install library // install library
 pip freeze > requirements.txt // membuat file requirements.txt untuk mengetahui library yang diperlukan

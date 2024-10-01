@@ -1,0 +1,8 @@
+vSGVwAXI41yoOdTgkYHVqGKyZ // API key
+X80BIiYgoCabpJNtaz2iQUhwujbu2cEaMnTTOuJntNhuOFgQS2 // API secret key
+AAAAAAAAAAAAAAAAAAAAANemwAEAAAAAqsOzaL18H19ztLa93DF8%2BDwIppQ%3DS8UT7Nzv3ZnxYTUThDGxoJIeUo7J7RliuRDQG3AXNBPNnQH1SO // bearer token
+1673168678-eQl4eJhlDuse4WVgc1JPbCo5vXLOXXPpFKD7rfu // access token
+Q73YoY1xXm7rKyxjl7oLfFq3tBFJmCstB5Z99yKI1URLn // access token secret
+
+
+https://x.com/ferysandria07/status/1840019521056452766
